@@ -1,0 +1,4 @@
+@baseUrl = http://localhost:7071/api
+# @baseUrl = https://emo-function-app-1.azurewebsites.net/api
+
+get {{baseUrl}}/get-all
